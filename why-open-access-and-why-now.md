@@ -30,5 +30,5 @@ If you edit or sit on the board of a journal, ask yourself the following questio
 
 If the answer to most or all of these questions is “no”, read on….
 <ul class="actions">
-  <li><a href="" class="button">Read on</a></li>
+  <li><a href="{{ 'determining-if-your-journal-is-a-good-fit-for-open-access' | absolute_url }}" class="button">Read on</a></li>
 </ul>
