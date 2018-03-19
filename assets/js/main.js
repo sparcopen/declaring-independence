@@ -82,7 +82,7 @@
 
 					});
 
-			// Sidebar.
+			// Sidebar. Closed code from https://stackoverflow.com/questions/41201420/setting-default-value-of-sidebar-in-a-web-site-to-closed
 			var $sidebar = $('#sidebar'),
 			$sidebar_inner = $sidebar.children('.inner');
 
