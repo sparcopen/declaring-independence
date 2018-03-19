@@ -4,7 +4,7 @@ subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "/declaring-independence/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://sparcopen.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -28,7 +28,7 @@ lang: en_US
 500px_url:
 facebook_url:
 github_url: https://github.com/sparcopen/declaring-independence
-gitlab_url: 
+gitlab_url:
 googleplus_url:
 instagram_url:
 pinterest_url:
