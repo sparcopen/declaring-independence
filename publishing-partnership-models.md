@@ -14,3 +14,7 @@ The preceding diagnostic section references a number of viable alternative publi
 It is important to note that any of these publishing partnerships should be viewed through the lens of finding the best long-term fit for your journal.  Get to know how any prospective partners interact with their editors, how compatible their interests are with yours, and what level of operational support they can provide your journal.
 
 A central component of this information-gathering phase is understanding what business model your prospective publishing partner envisions for the journal. While this may appear to be a binary decision - subscription or open access - each major option offers a number of common variations.  The core concern should be identifying a model that offers financial sustainability as well as philosophical fit for your journal.
+
+<ul class="actions">
+  <li><a href="{{ 'journal-revenue-options' | absolute_url }}" class="button">Read on</a></li>
+</ul>

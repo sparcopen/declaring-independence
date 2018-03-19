@@ -14,3 +14,7 @@ title: Journal revenue options
 
 ### Flipping vs. Launching
 Depending on who actually owns the journal title, its backfiles, and other intellectual property associated with the publication, you will need to consider what constraints bound your transition to open access.  Ideally, the journal can be “flipped” to open access in a manner that retains its title, publication history, and reputational capital.  However, it may be that those with an ownership interest are unwilling to enable this type of move. In that case, the best open access option is to launch a similar journal that is “born open access”.  Starting a new journal takes time and deliberate effort.  Your reputation, along with the reputations of your editorial and board colleagues, will provide the first marker of the journal’s quality.  This will be enhanced by the care and curation put into review and selection of papers.   
+
+<ul class="actions">
+  <li><a href="{{ 'next-steps' | absolute_url }}" class="button">Read on</a></li>
+</ul>
