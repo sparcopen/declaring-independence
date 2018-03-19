@@ -1,4 +1,6 @@
-# (WIP) Declaring Independence
+# Declaring Independence
+
+** Work in Progress ** This is not officially released yet, so come back another time. Any text, images, or addresses used may not be used in the final resource! 
 
 # Theme Credits
 
