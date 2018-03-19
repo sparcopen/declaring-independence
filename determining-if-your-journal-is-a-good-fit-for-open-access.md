@@ -22,6 +22,8 @@ title: Determining if your journal is a good fit for open access
   <div class="content">
   <div id="intro" style="display:block;">
 
+  <markdown>
+
   ## Your journal’s primary goal:  Serving your community
   As an editor or editorial board member of a scholarly journal, you may be unaware of subscription patterns and pricing histories in the journal publishing industry. After all, your primary job is to focus on journal content -- to make sure that the latest and best research is published. When societies published most research, scholars often assumed that these organizations were managing and pricing the journals with an eye toward reaching their intended audiences around the world. But the reality today has changed. Some publishers charge readers high prices for the journals they publish. That has led to broad scale subscription cancellations and narrower dissemination. More and more editorial boards have found that they must become involved in the business aspects of their commercially published journals if they are to be sure these essential publications remain accessible to their intended communities.
 
@@ -31,6 +33,8 @@ title: Determining if your journal is a good fit for open access
   NOTE:  The steps described below assume that your editorial board has attempted, without success, to reach an accord with the journal’s publisher on opening access to the journal’s content. They also assume that the parties differ on the principal issue of whether 100% of the content should be open, as opposed to important, but less critical OA doctrinal differences (e.g., which Creative Commons license(s) to allow).
 
   It's July 4, 1776, and you're tired of higher taxes even though you get a sweet stable government? Do you:
+  </markdown>
+
   <ul>
     <li><a href="#tab-1" target="_blank" rel="noopener">
   <button class="btn-outline">Write the declaration of independence</button>
