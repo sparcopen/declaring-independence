@@ -22,7 +22,7 @@
 // Font.
 	$font: (
 		family:				('Open Sans', sans-serif),
-		family-heading:		('Roboto Slab', serif),
+		family-heading:		('Roboto Light', serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
 		weight-bold:		600,
@@ -31,7 +31,7 @@
 		kerning-heading:	0.075em
 	);
 
-// Palette.
+// Palette. Root data.
 	$palette: (
 		bg:					#ffffff,
 		bg-alt:				#f5f6f7,
