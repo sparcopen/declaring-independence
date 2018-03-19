@@ -12,6 +12,17 @@ state: TN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
+plugins:
+- jekyll-seo-tag
+
+# SEO settings. More info here https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+
+twitter:
+  username: sparc_na
+logo: "/favicon.ico" # site wide logo for use on social settings
+facebook:
+ publisher: sparcopen
+lang: en_US
 
 # Social settings
 500px_url:
