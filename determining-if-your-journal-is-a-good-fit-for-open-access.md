@@ -2,7 +2,6 @@
 layout: page
 title: Determining if your journal is a good fit for open access
 ---
-
 <style>
 	    .content div:not(:target) {
 	      display: none;
@@ -12,25 +11,25 @@ title: Determining if your journal is a good fit for open access
 	      display: block;
 	    }
 
-	    /* Make the div big, so we would jump, if the JS was still broken */
 	    .content div {
 	      height: 100vh;
 	    }
 </style>
 
 <section>
-  <div class="content">
-  <div id="intro" style="display:block;" markdown="1">
+<div class="content">
+<div id="intro" style="display:block;" markdown="1">
+## Your journal’s primary goal:  Serving your community
 
-  ## Your journal’s primary goal:  Serving your community
-  As an editor or editorial board member of a scholarly journal, you may be unaware of subscription patterns and pricing histories in the journal publishing industry. After all, your primary job is to focus on journal content -- to make sure that the latest and best research is published. When societies published most research, scholars often assumed that these organizations were managing and pricing the journals with an eye toward reaching their intended audiences around the world. But the reality today has changed. Some publishers charge readers high prices for the journals they publish. That has led to broad scale subscription cancellations and narrower dissemination. More and more editorial boards have found that they must become involved in the business aspects of their commercially published journals if they are to be sure these essential publications remain accessible to their intended communities.
+As an editor or editorial board member of a scholarly journal, you may be unaware of subscription patterns and pricing histories in the journal publishing industry. After all, your primary job is to focus on journal content -- to make sure that the latest and best research is published. When societies published most research, scholars often assumed that these organizations were managing and pricing the journals with an eye toward reaching their intended audiences around the world. But the reality today has changed. Some publishers charge readers high prices for the journals they publish. That has led to broad scale subscription cancellations and narrower dissemination. More and more editorial boards have found that they must become involved in the business aspects of their commercially published journals if they are to be sure these essential publications remain accessible to their intended communities.
 
-  Fundamentally, then, the question you and your fellow editors must ask yourselves is,”Is our journal’s distribution model optimized to truly serve our community?” If your answer is no, and if you have found it difficult to engage your publisher to address your concerns about access and pricing, take the following diagnostic to better understand your options.
+Fundamentally, then, the question you and your fellow editors must ask yourselves is,”Is our journal’s distribution model optimized to truly serve our community?” If your answer is no, and if you have found it difficult to engage your publisher to address your concerns about access and pricing, take the following diagnostic to better understand your options.
 
-  ## Is open access a fit? A simple diagnostic tool
-  NOTE:  The steps described below assume that your editorial board has attempted, without success, to reach an accord with the journal’s publisher on opening access to the journal’s content. They also assume that the parties differ on the principal issue of whether 100% of the content should be open, as opposed to important, but less critical OA doctrinal differences (e.g., which Creative Commons license(s) to allow).
+## Is open access a fit? A simple diagnostic tool  
 
-  It's July 4, 1776, and you're tired of higher taxes even though you get a sweet stable government? Do you:
+NOTE:  The steps described below assume that your editorial board has attempted, without success, to reach an accord with the journal’s publisher on opening access to the journal’s content. They also assume that the parties differ on the principal issue of whether 100% of the content should be open, as opposed to important, but less critical OA doctrinal differences (e.g., which Creative Commons license(s) to allow).
+
+It's July 4, 1776, and you're tired of higher taxes even though you get a sweet stable government? Do you:
 
   <ul>
     <li><a href="#tab-1" target="_blank" rel="noopener">
