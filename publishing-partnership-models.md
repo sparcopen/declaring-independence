@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Generic
+title: Publishing partnership models
 ---
-
 The preceding diagnostic section references a number of viable alternative publishing options for journal editors seeking to move away from their current status quo.  Fortunately, there are a range of organizations that may be both philosophically aligned with your interests and in a position to offer operational assistance:
 
 | Partner                              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Resources                                                                                                                                                                                                                                                                                                                                                                                          | Who to Contact                                                                                 |
