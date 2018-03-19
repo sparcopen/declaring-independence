@@ -1,42 +1,6 @@
-# (WIP) Editorial - Jekyll Theme
+# (WIP) Declaring Independence
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
-
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
-
-# How to Use
-
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-and [creating pages](https://jekyllrb.com/docs/pages/).
-
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
-
-# Added Features
-
-* Add your **social profiles** easily in `_config.yml`.
-
-# Configuration
-
-You can use the following custom parameters in `_config.yml`.
-
-## Site
-- `subtitle` sets the text for the lighter colored text next to your site's title.
-
-## Social
-- `500px_url`
-- `facebook_url`
-- `github_url`
-- `gitlab_url`
-- `googleplus_url`
-- `instagram_url`
-- `linkedin_url`
-- `pinterest_url`
-- `slack_url`
-- `twitter_url`
-
-# Credits
+# Theme Credits
 
 Original README from HTML5 UP:
 
@@ -58,7 +22,6 @@ you can use for pretty much whatever.
 
 AJ
 aj@lkn.io | @ajlkn
-
 
 Credits:
 
