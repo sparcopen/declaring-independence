@@ -5,8 +5,7 @@ title: Join me
 
 ## Please join me in DECLARING INDEPENDENCE from publishers and journals that do not serve the research community.
 
-We scientists can exercise control of our journals. We can transform them from commercial commodities back to instruments of service to education and research. When we are in control, we fulfill our responsibility to ourselves, to society, to our institutions, and to our colleagues through-
-out the world.
+We scientists can exercise control of our journals. We can transform them from commercial commodities back to instruments of service to education and research. When we are in control, we fulfill our responsibility to ourselves, to society, to our institutions, and to our colleagues throughout the world.
 
 In recent times, purely commercial interests have gained sway over too many of the journals that we depend on for research information. Maximizing profits has become the controlling goal. A system that should serve us is at the mercy of corporate acquisitions and profit-oriented planners. Disseminating scholarly research seems to be an afterthought.
 
