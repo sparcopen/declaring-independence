@@ -17,7 +17,7 @@ logo: "/favicon.ico" # site wide logo for use on social settings
 facebook:
  publisher: sparcopen
 lang: en_US
-logo: {{ site.baseurl }}/favicon.ico
+logo: ""{{ site.baseurl }}/favicon.ico"
 # Social settings
 500px_url:
 facebook_url:
