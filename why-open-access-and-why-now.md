@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why open access, and why now?
+description: 
 ---
 To understand why scholars might contemplate transitioning their editorial activities from traditional subscription journals to open access alternatives, it is helpful to take a quick look at developments in the scholarly publishing field this millennium.
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join me
+description: 
 ---
 
 ## Please join me in DECLARING INDEPENDENCE from publishers and journals that do not serve the research community.

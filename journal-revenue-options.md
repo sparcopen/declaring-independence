@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Journal revenue options
+description: 
 ---
 ## Subscription models
 * Co-publishing agreements.  Publishers cover some or all expenses associated with the journal.  In return, the publisher keeps a percentage of the revenue it collects (typically in the 50% range).  Licensing partnerships are typically multiyear arrangements, and the journal owners are frequently paid an advance against the first year’s royalty.

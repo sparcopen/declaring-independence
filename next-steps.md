@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Next Steps
+description: 
 ---
 In the best case scenario, this diagnostic exercise focused your understanding of just how well your journal’s current model is working for you, your readers, and your scholarly community.  That same instrument was then applied to other publishing partnership models to help you determine a potentially better fit.  But now what?  Armed with this information, where do you go from here?
 

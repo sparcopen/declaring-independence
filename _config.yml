@@ -2,16 +2,10 @@
 title: Declaring Independence
 subtitle: by SPARC
 email: Greg@sparcopen.org
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+description:
 baseurl: "/declaring-independence/" # the subpath of your site, e.g. /blog
 url: "https://sparcopen.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: SPARC
 plugins:
 - jekyll-seo-tag
 
@@ -23,7 +17,7 @@ logo: "/favicon.ico" # site wide logo for use on social settings
 facebook:
  publisher: sparcopen
 lang: en_US
-
+logo: {{ site.baseurl }}/favicon.ico
 # Social settings
 500px_url:
 facebook_url:

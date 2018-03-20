@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Determining if your journal is a good fit for open access
+description: 
 ---
 <style>
 	    .content div:not(:target) {
