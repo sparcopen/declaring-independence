@@ -12,7 +12,12 @@
 		width: 100%;
 
 		> .inner {
-			@include padding(0, 24em);
+			@include padding(0, 6em);
+			margin: 0 auto;
+			max-width: 110em;
+
+		> .reading {
+			@include padding(0, 30em);
 			margin: 0 auto;
 			max-width: 110em;
 
