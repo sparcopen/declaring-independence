@@ -3,8 +3,8 @@ title: Declaring Independence
 subtitle: by SPARC
 email: Greg@sparcopen.org
 description:
-baseurl: "/declaring-independence/" # the subpath of your site, e.g. /blog
-url: "https://sparcopen.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://declaring-independence.org" # the base hostname & protocol for your site
 author: SPARC
 plugins:
 - jekyll-seo-tag
