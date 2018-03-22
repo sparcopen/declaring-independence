@@ -35,7 +35,7 @@ If the answer to most or all of these questions is “no”, read on….
 </ul>
 
 
-[1]: Van Orsdel, Lee, and Kathleen Born. "Periodicals price survey 2004: Closing in on open access." Library Journal (2004): [http://lj.libraryjournal.com/2004/04/publishing/periodicals-price-survey-2004-closing-in-on-open-access/]
+[^footnote]: Van Orsdel, Lee, and Kathleen Born. "Periodicals price survey 2004: Closing in on open access." Library Journal (2004): [http://lj.libraryjournal.com/2004/04/publishing/periodicals-price-survey-2004-closing-in-on-open-access/]
 
 2. The Association of Research Libraries. “Library Expenditures as a Percent of Total University Expenditures, 1982-2011 (40 Universities).” The Association of Research Libraries, 20 Nov. 2013, [http://www.libqual.org/documents/admin/EG_2.pdf].
 
