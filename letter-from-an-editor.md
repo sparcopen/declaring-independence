@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Join me
-description: 
+description:
 ---
-
+<!-- TODO THIS IS OLD COPY, CHANGE -->
 ## Please join me in DECLARING INDEPENDENCE from publishers and journals that do not serve the research community.
 
 We scientists can exercise control of our journals. We can transform them from commercial commodities back to instruments of service to education and research. When we are in control, we fulfill our responsibility to ourselves, to society, to our institutions, and to our colleagues throughout the world.
