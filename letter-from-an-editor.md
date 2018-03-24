@@ -1,27 +1,42 @@
 ---
 layout: page
-title: Join me
+title: Speaking from experience... A letter from Hugh Thomas, co-editor of Algebraic Combinatorics
+
 description:
 ---
-<!-- TODO THIS IS OLD COPY, CHANGE -->
-## Please join me in DECLARING INDEPENDENCE from publishers and journals that do not serve the research community.
+I am writing to you as one of the editors-in-chief of a journal that went through
+the flipping process described in this guide.  In spring 2017, the editors-in-chief
+and editorial board of the Springer-owned Journal of Algebraic Combinatorics
+decided to leave in order to found a new, free, open access journal called
+Algebraic Combinatorics.  Our new journal started accepting submissions in the
+summer, published its first issue in January 2018, with the second issue to follow
+in a few days as I write this in March 2018.  
 
-We scientists can exercise control of our journals. We can transform them from commercial commodities back to instruments of service to education and research. When we are in control, we fulfill our responsibility to ourselves, to society, to our institutions, and to our colleagues throughout the world.
+Since you are accessing this resource, you are probably motivated by some of the same
+concerns that we had: a sense that journal subscription rates are exploitative and
+unsustainable, that we no longer wanted to volunteer our time to the benefit of a
+large corporation, that universities should not be required to buy back the journals
+produced largely by academic labour, that access to taxpayer-funded research
+should not be contingent upon ability to pay, that academic publishing should be
+under the control of, and at the service of, academics.
 
-In recent times, purely commercial interests have gained sway over too many of the journals that we depend on for research information. Maximizing profits has become the controlling goal. A system that should serve us is at the mercy of corporate acquisitions and profit-oriented planners. Disseminating scholarly research seems to be an afterthought.
+In our case, we were also motivated by a desire to serve as a test case.  There have,
+of course, already been some successful examples, but few enough that we felt that
+it was still an experiment.  Would journal flipping work in our case?  Would our
+colleagues submit  papers to a new, electronic-only journal, whose worth was attested,
+not by a publisher's trademark and a hefty subscription fee, but only by the strength of
+its editorial board members and the editorial judgment which they manifested?  Would
+our colleagues not only submit papers, but submit their best papers? Would they accept
+invitations to referee?  Would a publication in Algebraic Combinatorics on one's CV be
+understood to be just as good as as a publication in the Journal of Algebraic
+Combinatorics had been?
 
-I speak from first-hand experience of what happens when profits take over. In 1986, I started a journal in the field of evolutionary ecology. The initial subscription price was $35 per year for individuals, $100 for libraries. Within a twelve- year period, during which the journal changed ownership twice, the price for libraries had grown to nearly $800 per year, an average annual increase of 19%.
+It's probably too early to say that all of these things have worked out, but I can say that
+everything is going well so far, and I am very optimistic for the future of Algebraic
+Combinatorics.  If you have any questions about the process, I invite you to get in
+touch with me or the other editors-in-chief and editorial board members.  
 
-I did the math. I estimated that my publish- er pocketed profit of between $170,000 and $220,000 annually, a mark-up of about 275% and a profit margin of nearly 75%. After the second change in ownership, my editorial board and I launched our own independent, competitive journal,  Evolutionary Ecology Research.
-
-Using common sense and prudent management, we have been able to set reasonable prices, use technology to speed up the review and publication process, and attract the leading lights of the field to our new journal.
-
-We did it, and you can too. Though I would not recommend our strategy to everyone, there are alternatives to commercial publication. You can start by reviewing this handbook to deter- mine whether your journal serves the needs of its community. If it does not, you can use the handbook to explore and evaluate alternatives to your present situation.
-
-We scientists are naturally curious explorers. Please be curious about the way your journal is run. And if you don’t like what you find, explore ways of DECLARING INDEPENDENCE.
-
-Michael L. Rosenzweig
-Editor-in-Chief,
-Evolutionary Ecology Research
-Professor, Department of Ecology and
-Evolutionary Biology, University of Arizona
+In closing, I want to mention that the thing I have been most surprised by is the depth of
+support for this initiative in the academic community.  Many people see the need for
+change, and are enthusiastic about getting behind a project that promises an improvement
+on the status quo.
