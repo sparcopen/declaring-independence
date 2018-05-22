@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Determining if your journal is a good fit for open access
-description: 
+description: A simple diagnostic tool to help editors understand if their journal is a good candidate for transitioning to open access.
 ---
 <style>
 	    .content div:not(:target) {

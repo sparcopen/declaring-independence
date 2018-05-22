@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publishing partnership models
-description:
+description: Resources offering operational assistance for editors moving their journals to an open access model.
 ---
 The preceding diagnostic section references a number of viable alternative publishing options for journal editors seeking to move away from their current status quo.  Fortunately, there are a range of organizations that may be both philosophically aligned with your interests and in a position to offer operational assistance:
 

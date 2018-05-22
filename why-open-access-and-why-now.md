@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why open access, and why now?
-description:
+description: Open access is a scholar-led response to a commercial publishing market that is increasingly both financially unsustainable and divergent from the core values of academia.
 ---
 To understand why scholars might contemplate transitioning their editorial activities from traditional subscription journals to open access alternatives, it is helpful to take a quick look at developments in the scholarly publishing field this millennium.
 
