@@ -4,8 +4,6 @@ title: Speaking from experience... A letter from Hugh Thomas, co-editor of Algeb
 image: HughThomas.JPG
 description: Hear what an editor who has overseen the transition of a scholarly journal from the subscription model to open access learned from the experience.
 ---
-<!-- todo: add image -->
-
 I am writing to you as one of the editors-in-chief of a journal that went through
 the flipping process described in this guide.  In spring 2017, the editors-in-chief
 and editorial board of the Springer-owned Journal of Algebraic Combinatorics
