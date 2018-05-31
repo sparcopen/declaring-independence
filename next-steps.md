@@ -9,10 +9,9 @@ Short of this optimal outcome, perhaps you completed this exercise without ident
 
 SPARC is well-positioned to help you interpret the information you have gleaned through this process. Our team has helped guide numerous journal editors understand their options, all free of charge.  We can put you in touch with editors who have undertaken similar journeys.  We can help you translate what may be a vague notion of getting from your current, suboptimal model to a concrete transition plan.
 
-Please contact SPARC to get started.
-
 <ul class="actions">
-  <li><a href="/updates" class="button special big">Stay Updated</a></li>
+  <li><a href="/updates" class="button special big">Contact Us To Get Started</a></li>
+  <li><a href="/updates" class="button small">Stay Updated</a></li>
   <li><a href="/feedback" class="button small">Feedback</a></li>
   <li><a href="/feedback" class="button small">Questions?</a></li>
 </ul>
