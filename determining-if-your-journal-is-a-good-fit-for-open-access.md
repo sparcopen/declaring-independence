@@ -36,17 +36,18 @@ Your editorial board’s first step in assessing its options is to determine who
 
 	<ul class="actions">
     <li>
-			<a href="#tab-1" target="\_blank" rel="noopener">
-  			<button class="button">A society (or other nonprofit entity) owns the journal, but publishes it in collaboration with a third-party (for example, a commercial publisher or university press)</button>
+			<a href="#tab-1">
+				A society (or other nonprofit entity) owns the journal, but publishes it in collaboration with a third-party (for example, a commercial publisher or university press)
+			</a>
+		</li>
+    <li>
+			<a href="#tab-2">
+  			A commercial or nonprofit publisher owns the journal, and contracts with a society and/or individual editors to supply peer reviewed content
   		</a>
 		</li>
     <li>
-			<a href="#tab-2" target="\_blank" rel="noopener">
-  			<button class="button">A commercial or nonprofit publisher owns the journal, and contracts with a society and/or individual editors to supply peer reviewed content</button>
-  		</a></li>
-    <li>
-			<a href="#tab-3" target="\_blank" rel="noopener">
-  			<button class="button">A society (or other nonprofit) owns the journal and its content</button>
+			<a href="#tab-3">
+  			A society (or other nonprofit) owns the journal and its content
   		</a>
 		</li>
   </ul>
