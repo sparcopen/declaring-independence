@@ -17,5 +17,8 @@ It is important to note that any of these publishing partnerships should be view
 A central component of this information-gathering phase is understanding what business model your prospective publishing partner envisions for the journal. While this may appear to be a binary decision - subscription or open access - each major option offers a number of common variations.  The core concern should be identifying a model that offers financial sustainability as well as philosophical fit for your journal.
 
 <ul class="actions">
-  <li><a href="{{ 'journal-revenue-options' | absolute_url }}" class="button">Read on</a></li>
+  <li><a href="{{ 'journal-revenue-options' | absolute_url }}" class="button special big">Read on</a></li>
+  <li><a href="/feedback" class="button small">Feedback</a></li>
+  <li><a href="/feedback" class="button small">Questions?</a></li>
+  <li><a href="/updates" class="button small">Stay Updated</a></li>
 </ul>
