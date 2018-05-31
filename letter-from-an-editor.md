@@ -40,3 +40,10 @@ In closing, I want to mention that the thing I have been most surprised by is th
 support for this initiative in the academic community.  Many people see the need for
 change, and are enthusiastic about getting behind a project that promises an improvement
 on the status quo.
+
+<ul class="actions">
+  <li><a href="/why-open-access-and-why-now" class="button special big">Read On</a></li>
+  <li><a href="/feedback" class="button small">Feedback</a></li>
+  <li><a href="/feedback" class="button small">Questions?</a></li>
+  <li><a href="/updates" class="button small">Stay Updated</a></li>
+</ul>
