@@ -14,7 +14,8 @@ Algebraic Combinatorics.  Our new journal started accepting submissions in the
 summer, published its first issue in January 2018, with the second issue to follow
 in a few days as I write this in March 2018.  
 
-<span class="image right"><img src="assets/images/HughThomas.JPG" alt="" /></span>
+<span class="image fit"><img src="assets/images/HughThomas.JPG" alt="" /></span>
+
 Since you are accessing this resource, you are probably motivated by some of the same
 concerns that we had: a sense that journal subscription rates are exploitative and
 unsustainable, that we no longer wanted to volunteer our time to the benefit of a
