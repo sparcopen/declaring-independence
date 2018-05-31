@@ -22,9 +22,3 @@ Depending on who actually owns the journal title, its backfiles, and other intel
   <li><a href="/feedback" class="button small">Questions?</a></li>
   <li><a href="/updates" class="button small">Stay Updated</a></li>
 </ul>
-
-<ul class="actions">
-  <li><a href="/updates" class="button special big">Stay Updated</a></li>
-  <li><a href="/feedback" class="button small">Feedback</a></li>
-  <li><a href="/feedback" class="button small">Questions?</a></li>
-</ul>
