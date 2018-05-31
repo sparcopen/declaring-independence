@@ -34,18 +34,23 @@ NOTE:  The steps described below assume that your editorial board has attempted,
 
 Your editorial board’s first step in assessing its options is to determine who owns the assets of the journal, most importantly the journal’s name and content. There are three common scenarios:
 
-  <ul>
-    <li><a href="#tab-1" target="\_blank" rel="noopener">
-  <button class="btn-outline">A society (or other nonprofit entity) owns the journal, but publishes it in collaboration with a third-party (for example, a commercial publisher or university press)</button>
-  </a></li>
-    <li><a href="#tab-2" target="\_blank" rel="noopener">
-  <button class="btn-outline">A commercial or nonprofit publisher owns the journal, and contracts with a society and/or individual editors to supply peer reviewed content</button>
-  </a></li>
-    <li><a href="#tab-3" target="\_blank" rel="noopener">
-  <button class="btn-outline">A society (or other nonprofit) owns the journal and its content</button>
-  </a></li>
+	<ul class="actions">
+    <li>
+			<a href="#tab-1" target="\_blank" rel="noopener">
+  			<button class="button">A society (or other nonprofit entity) owns the journal, but publishes it in collaboration with a third-party (for example, a commercial publisher or university press)</button>
+  		</a>
+		</li>
+    <li>
+			<a href="#tab-2" target="\_blank" rel="noopener">
+  			<button class="button">A commercial or nonprofit publisher owns the journal, and contracts with a society and/or individual editors to supply peer reviewed content</button>
+  		</a></li>
+    <li>
+			<a href="#tab-3" target="\_blank" rel="noopener">
+  			<button class="button">A society (or other nonprofit) owns the journal and its content</button>
+  		</a>
+		</li>
   </ul>
-  </div>
+</div>
 
   <div id="tab-1" markdown="1">
 ## If a Society or Nonprofit Owns the Journal but Collaborates with a Third Party to Publish...
