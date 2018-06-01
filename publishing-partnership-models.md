@@ -18,7 +18,5 @@ A central component of this information-gathering phase is understanding what bu
 
 <ul class="actions">
   <li><a href="{{ 'journal-revenue-options' | absolute_url }}" class="button special big">More on Funding your Journal</a></li>
-  <li><a href="/feedback" class="button small">Feedback</a></li>
-  <li><a href="/feedback" class="button small">Questions?</a></li>
-  <li><a href="/updates" class="button small">Stay Updated</a></li>
+  <li><a href="/contact" class="button small">Feedback or Questions?</a></li>
 </ul>

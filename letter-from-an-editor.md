@@ -12,7 +12,7 @@ Algebraic Combinatorics.  Our new journal started accepting submissions in the
 summer, published its first issue in January 2018, with the second issue to follow
 in a few days as I write this in March 2018.  
 
-<span class="image fit"><img src="assets/images/HughThomas.JPG" alt="" /></span>
+<span class="image fit"><img src="assets/images/HughThomas.JPG" alt="an image of Hugh Thomas, co-editor of Algebraic Combinatorics" /></span>
 
 Since you are accessing this resource, you are probably motivated by some of the same
 concerns that we had: a sense that journal subscription rates are exploitative and
@@ -45,7 +45,7 @@ on the status quo.
 
 <ul class="actions">
   <li><a href="/why-open-access-and-why-now" class="button special big">Read On</a></li>
-  <li><a href="/feedback" class="button small">Feedback</a></li>
-  <li><a href="/feedback" class="button small">Questions?</a></li>
+  <li><a href="/contact" class="button small">Feedback</a></li>
+  <li><a href="/contact" class="button small">Questions?</a></li>
   <li><a href="/updates" class="button small">Stay Updated</a></li>
 </ul>

@@ -3,9 +3,6 @@ layout: page
 title: Journal revenue options
 description: Business models for supporting an open access publishing strategy.
 ---
-
-<!-- would an intro be good on this page? -->
-
 ## Subscription models
 * **Co-publishing agreements**.  Publishers cover some or all expenses associated with the journal.  In return, the publisher keeps a percentage of the revenue it collects (typically in the 50% range).  Licensing partnerships are typically multiyear arrangements, and the journal owners are frequently paid an advance against the first year’s royalty.
 * **Publishing Services**.  A journal contracts with a publisher to provide publishing services.  The publisher may provide comprehensive services or only a subset. Sometimes, a journal works with multiple vendors to create a publication workflow.  Journal owners typically pay a negotiated price to the publisher in exchange for a clearly defined set of services, and the journal owner retains any surplus.
@@ -21,7 +18,7 @@ Depending on who actually owns the journal title, its backfiles, and other intel
 
 <ul class="actions">
   <li><a href="{{ 'next-steps' | absolute_url }}" class="button special big">Read on</a></li>
-  <li><a href="/feedback" class="button small">Feedback</a></li>
-  <li><a href="/feedback" class="button small">Questions?</a></li>
+  <li><a href="/contact" class="button small">Feedback</a></li>
+  <li><a href="/contact" class="button small">Questions?</a></li>
   <li><a href="/updates" class="button small">Stay Updated</a></li>
 </ul>

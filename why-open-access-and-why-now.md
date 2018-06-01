@@ -32,9 +32,7 @@ If you edit or sit on the board of a journal, ask yourself the following questio
 If the answer to most or all of these questions is “no”, read on….
 <ul class="actions">
   <li><a href="{{ 'is-your-journal-right-for-open-access' | absolute_url }}" class="button special big">Is your journal right for Open access?</a></li>
-  <li><a href="/feedback" class="button small">Feedback</a></li>
-  <li><a href="/feedback" class="button small">Questions?</a></li>
-  <li><a href="/updates" class="button small">Stay Updated</a></li>
+  <li><a href="/contact" class="button small">Feedback or Questions?</a></li>
 </ul>
 
 
