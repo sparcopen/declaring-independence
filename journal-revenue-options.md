@@ -3,6 +3,8 @@ layout: page
 title: Journal revenue options
 description: Business models for supporting an open access publishing strategy.
 ---
+Running a journal is not costless.  That said, there are models for sustaining journal operations that do not place undue burdens on the scholarly communication system.  Since the open access movement launched in earnest at the turn of the millenium, editors and publishers have developed a number of promising business frameworks, including the following:
+
 ## Subscription models
 * **Co-publishing agreements**.  Publishers cover some or all expenses associated with the journal.  In return, the publisher keeps a percentage of the revenue it collects (typically in the 50% range).  Licensing partnerships are typically multiyear arrangements, and the journal owners are frequently paid an advance against the first year’s royalty.
 * **Publishing Services**.  A journal contracts with a publisher to provide publishing services.  The publisher may provide comprehensive services or only a subset. Sometimes, a journal works with multiple vendors to create a publication workflow.  Journal owners typically pay a negotiated price to the publisher in exchange for a clearly defined set of services, and the journal owner retains any surplus.
