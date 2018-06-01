@@ -20,7 +20,5 @@ Depending on who actually owns the journal title, its backfiles, and other intel
 
 <ul class="actions">
   <li><a href="{{ 'next-steps' | absolute_url }}" class="button special big">Read on</a></li>
-  <li><a href="/contact" class="button small">Feedback</a></li>
-  <li><a href="/contact" class="button small">Questions?</a></li>
-  <li><a href="/updates" class="button small">Stay Updated</a></li>
+  <li><a href="/contact" class="button small">Feedback or Questions?</a></li>
 </ul>

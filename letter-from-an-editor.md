@@ -45,7 +45,5 @@ on the status quo.
 
 <ul class="actions">
   <li><a href="/why-open-access-and-why-now" class="button special big">Read On</a></li>
-  <li><a href="/contact" class="button small">Feedback</a></li>
-  <li><a href="/contact" class="button small">Questions?</a></li>
-  <li><a href="/updates" class="button small">Stay Updated</a></li>
+  <li><a href="/contact" class="button small">Feedback or Questions?</a></li>
 </ul>
