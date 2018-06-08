@@ -18,7 +18,7 @@ Putting research in the hands of those who can benefit from it and build upon it
 align publishing activities with the core values of the academy.
 
 ## Growth of open access
-The dramatic growth in open access validates the viability of this distribution model.  In 2000, approximately 19,500 articles were published as open access. By 2016, that number had grown to more than 256,000. Open access journal articles now represent more than 15% of total articles published, up from 2% in 2000.  The Directory of open access Journals lists nearly 10,000 open access journals as of mid-2017.  Open access is neither a novelty nor an inherently risky model.  It is a vital and growing component of scholarly publishing.
+The dramatic growth in open access validates the viability of this distribution model.  In 2000, approximately 19,500 articles were published as open access. By 2016, that number had grown to more than 256,000. Open access journal articles now represent more than 15% of total articles published, up from 2% in 2000.  The Directory of Open Access Journals lists nearly 10,000 open access journals as of mid-2017.  Open access is neither a novelty nor an inherently risky model.  It is a vital and growing component of scholarly publishing.
 
 ## Considerations for moving to open access
 If you edit or sit on the board of a journal, ask yourself the following questions:
