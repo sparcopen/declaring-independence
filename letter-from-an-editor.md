@@ -12,7 +12,7 @@ Algebraic Combinatorics.  Our new journal started accepting submissions in the
 summer, published its first issue in January 2018, with the second issue to follow
 in a few days as I write this in March 2018.  
 
-<span class="image fit"><img src="assets/images/hughandalcoforbannerArtboard" alt="an image of Hugh Thomas, co-editor of Algebraic Combinatorics" /></span>
+<span class="image fit"><img src="assets/images/hughandalcoforbannerArtboard.png" alt="an image of Hugh Thomas, co-editor of Algebraic Combinatorics" /></span>
 
 Since you are accessing this resource, you are probably motivated by some of the same
 concerns that we had: a sense that journal subscription rates are exploitative and
