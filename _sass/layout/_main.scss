@@ -14,7 +14,7 @@
 		> .inner {
 			@include padding(0, 6em);
 			margin: 0 auto;
-			max-width: 100em;
+			max-width: 60em;
 
 			> section {
 				@include padding(6em, 0);
