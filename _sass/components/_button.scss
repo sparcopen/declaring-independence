@@ -16,7 +16,6 @@
 			'background-color #{_duration(transition)} ease-in-out',
 			'color #{_duration(transition)} ease-in-out'
 		));
-		padding-top:5px;
 		margin-bottom:5px;
 		background-color: transparent;
 		border-radius: _size(border-radius);
@@ -58,12 +57,12 @@
 		}
 
 		&.small {
+			line-height: 2em;
 			font-size: 0.6em;
 		}
 
 		&.big {
 			font-size: 1em;
-			height: 3.65em;
 			line-height: 3.65em;
 		}
 
