@@ -29,7 +29,7 @@
 		font-weight: _font(weight-heading);
 		min-height: 3.5em;
 		letter-spacing: _font(kerning-heading);
-		/*line-height: 3.5em; */
+		line-height: 2em;
 		padding: 0 2.25em;
 		text-align: center;
 		text-decoration: none;
@@ -57,13 +57,11 @@
 		}
 
 		&.small {
-			line-height: 2em;
 			font-size: 0.6em;
 		}
 
 		&.big {
 			font-size: 1em;
-			line-height: 3.65em;
 		}
 
 		&.special {
