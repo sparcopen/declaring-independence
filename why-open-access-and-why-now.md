@@ -30,10 +30,11 @@ If you edit or sit on the board of a journal, ask yourself the following questio
 * Does our publisher value the journal as an intellectual more than a financial asset?
 
 If the answer to most or all of these questions is “no”, read on….
-<ul class="actions">
-  <li><a href="{{ 'is-your-journal-right-for-open-access' | absolute_url }}" class="button special big">Is your journal right for Open access?</a></li>
-  <li><a href="/contact" class="button small">Feedback or Questions?</a></li>
-</ul>
+<p>
+  <a href="{{ 'is-your-journal-right-for-open-access' | absolute_url }}" class="button special big">Is your journal right for Open access?</a>
+  <br>
+  <a href="/contact" class="button small">Feedback or Questions?</a>
+</p>
 
 
 [^footnote]: Van Orsdel, Lee, and Kathleen Born. "Periodicals price survey 2004: Closing in on open access." Library Journal (2004): [http://lj.libraryjournal.com/2004/04/publishing/periodicals-price-survey-2004-closing-in-on-open-access/](http://lj.libraryjournal.com/2004/04/publishing/periodicals-price-survey-2004-closing-in-on-open-access/)
