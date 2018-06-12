@@ -13,7 +13,7 @@ summer, published its first issue in January 2018, with the second issue to foll
 in a few days as I write this in March 2018.  
 
 <span class="image fit"><img src="assets/images/hughandalcoforbannerArtboard.png" alt="an image of Hugh Thomas, co-editor of Algebraic Combinatorics" /></span>
-
+<!-- todo shrink this image to decrease load size -->
 Since you are accessing this resource, you are probably motivated by some of the same
 concerns that we had: a sense that journal subscription rates are exploitative and
 unsustainable, that we no longer wanted to volunteer our time to the benefit of a
