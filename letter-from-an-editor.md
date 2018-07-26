@@ -7,7 +7,7 @@ I am writing to you as one of the editors-in-chief of a journal that went throug
 the flipping process described in this guide.  In spring 2017, the editors-in-chief
 and editorial board of the Springer-owned Journal of Algebraic Combinatorics
 decided to leave in order to found a new, free, open access journal called
-Algebraic Combinatorics.  Our new journal started accepting submissions in the
+<a href ="https://alco.centre-mersenne.org/journals/ALCO">Algebraic Combinatorics</a>.  Our new journal started accepting submissions in the
 summer, published its first issue in January 2018, with the second issue to follow
 in a few days as I write this in March 2018.  
 
